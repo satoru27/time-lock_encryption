@@ -12,4 +12,4 @@ Antonopoulos, Andreas. Mastering Bitcoin
 
 Bitcoin Developer guide: https://bitcoin.org/en/developer-guide
 
-Gwern. TIME-LOCK ENCRYPTION: https://www.gwern.net/Self-decrypting-files
+Gwern Branwen. TIME-LOCK ENCRYPTION: https://www.gwern.net/Self-decrypting-files
